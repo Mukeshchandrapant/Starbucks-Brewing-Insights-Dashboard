@@ -71,4 +71,4 @@ Dashboard enables quick comparison of nutritional values and beverage popularity
 
 Clone this repository:
 
-git clone https://github.com/yourusername/starbucks-dashboard.git
+git clone https://github.com/Mukeshchandrapant/Starbucks-Brewing-Insights-Dashboard.git
